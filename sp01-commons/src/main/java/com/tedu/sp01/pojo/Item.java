@@ -10,5 +10,5 @@ import lombok.NoArgsConstructor;
 public class Item {
 	private Integer id;
 	private String name;
-	private Integer number; //…Ã∆∑ø‚¥Ê
+	private Integer number; 
 }
